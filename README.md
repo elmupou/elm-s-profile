@@ -1,2 +1,2 @@
-# elm-s-profile
-my profile a requirement for school
+# my-profile
+get to know me better
